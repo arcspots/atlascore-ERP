@@ -311,6 +311,10 @@ O projeto utiliza:
 
 # Objetivo do Projeto
 
-O AtlasCore ERP foi criado como estudo avançado de arquitetura backend moderna, sistemas SaaS multi-tenant e engenharia de software aplicada a ambientes corporativos.
+O AtlasCore ERP é uma plataforma backend multi-tenant desenvolvida para explorar arquiteturas SaaS escaláveis, autenticação segura, isolamento entre empresas e padrões modernos de engenharia de software.
+
+O projeto aplica conceitos de Clean Architecture, Repository Pattern, Dependency Injection e Domain-Driven Design para criar uma base sólida para sistemas corporativos de grande porte.
+
+A arquitetura foi planejada para suportar a evolução futura de módulos financeiros, observabilidade, auditoria, mensageria, monitoramento, segurança corporativa e soluções EDR voltadas para ambientes empresariais.
 
 ---
